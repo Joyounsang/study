@@ -1,3 +1,7 @@
+# Outpup 폴더
+dist
+node_modules
+
 # Prerequisites
 *.d
 
